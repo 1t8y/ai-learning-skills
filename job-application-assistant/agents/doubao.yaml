@@ -1,0 +1,7 @@
+interface:
+  display_name: "跨框架求职助手"
+  short_description: "生成真实可靠的求职沟通与简历"
+  default_prompt: "使用 $job-application-assistant 帮我完成一个岗位的求职任务"
+
+policy:
+  allow_implicit_invocation: true
